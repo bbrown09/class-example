@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 -Bayes Theorem
 -Bayesian Inference
+=======
+    - Mean and standard deviation
+    - Regression
+    - Bayes Theorem
+>>>>>>> music
